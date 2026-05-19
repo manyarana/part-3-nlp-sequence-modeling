@@ -1,0 +1,30 @@
+Predicted: positive
+Actual: positive
+----------------------------------------
+Predicted: positive
+Actual: positive
+----------------------------------------
+Predicted: negative
+Actual: negative
+----------------------------------------
+Predicted: negative
+Actual: negative
+----------------------------------------
+Predicted: positive
+Actual: positive
+----------------------------------------
+Predicted: neutral
+Actual: neutral
+----------------------------------------
+Predicted: positive
+Actual: positive
+----------------------------------------
+Predicted: positive
+Actual: positive
+----------------------------------------
+Predicted: neutral
+Actual: neutral
+----------------------------------------
+Predicted: neutral
+Actual: neutral
+----------------------------------------
